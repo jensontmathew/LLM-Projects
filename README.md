@@ -30,7 +30,4 @@ Data-driven investment decisions based on aggregated insights.
 
 Democratising access to powerful research tools for a wider audience.
 
-Github Link: https://github.com/jensontmathew/LLM-Projects
-
-#AI #InvestmentResearch #MachineLearning #Finance #OpenAI #LLM #LLMequityresearch #AIpoweredfinance
 
